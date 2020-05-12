@@ -1,4 +1,5 @@
 In the code there is an l-system class with the following methods and attributes:
+
 -.segment (this is the length of the segment that the turtle draws each time he recieves a straight draw instruction. It is an integer. A recommended value is 1-10)
 
 -.angle (this is the angle the turtle turns whenever he recieves a left or right turn instruction. It is an integer in degrees)
